@@ -8,7 +8,7 @@
   "server": {
     "ip": "arassunucu.aternos.me",
     "port": 44005,
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Beni öldürme!",
+        "aras.amp30'a abone ol!",
+        "Minecraft oynamayı seviyorum!"
       ]
     },
     "chat-log": true,
